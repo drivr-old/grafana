@@ -5,4 +5,4 @@ services:
     volumes:
       - /var/lib/grafana
     ports:
-      - 3000:3000
+      - 9000:3000
